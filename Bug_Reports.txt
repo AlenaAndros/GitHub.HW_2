@@ -1,0 +1,12 @@
+№
+ID
+Samary
+Description	
+Requirement id	
+STR	
+Actual 
+Result	
+Expected 
+Result	
+Priority	
+Severity
